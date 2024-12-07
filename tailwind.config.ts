@@ -11,6 +11,7 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        lightboxBg: 'rgba(0, 0, 0, 0.8)', // Custom background color for lightbox
       },
     },
   },
